@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Keyboard",
+      "quantity": 1,
+      "price": 80,
+      "image": "https://images.pexels.com/photos/532173/pexels-photo-532173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    },
+    {
+      "id": 2,
+      "productName": "Mouse",
+      "quantity": 70,
+      "price": 230,
+      "image": "https://images.pexels.com/photos/5185146/pexels-photo-5185146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "productName": "Screen",
+      "quantity": 0,
+      "price": 2520,
+      "image": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "productName": "Labtop",
+      "quantity": 40,
+      "price": 6700,
+      "image": "https://images.pexels.com/photos/5076531/pexels-photo-5076531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    },
+    {
+      "productName": "Fruit",
+      "price": "30",
+      "quantity": "500",
+      "image": "https://images.pexels.com/photos/635705/pexels-photo-635705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "productName": "charger",
+      "price": "80",
+      "quantity": "50",
+      "image": "https://images.pexels.com/photos/1694830/pexels-photo-1694830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    },
+    {
+      "id": 7,
+      "productName": "computer fan",
+      "price": "160",
+      "quantity": "13",
+      "image": "https://images.pexels.com/photos/2225617/pexels-photo-2225617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "isInCart": false
+    }
+  ]
+}
